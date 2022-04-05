@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar renders correctly 1`] = `
+<div>
+  <img
+    alt="Avatar"
+    class="w-full rounded-full overflow-hidden shadow-inner"
+    src="https://avatars2.githubusercontent.com/u/1234?s=460&v=4"
+  />
+</div>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Box test should match the snapshot when children and className given 1`] = `
+<div>
+  <div
+    class="text-red-500"
+  >
+    Box
+  </div>
+</div>
+`;
+
+exports[`Box test should match the snapshot when children and className not given 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`Box test should match the snapshot when children given 1`] = `
+<div>
+  <div>
+    Box
+  </div>
+</div>
+`;
+
+exports[`Box test should match the snapshot when className given 1`] = `
+<div>
+  <div
+    class="text-red-500"
+  />
+</div>
+`;
