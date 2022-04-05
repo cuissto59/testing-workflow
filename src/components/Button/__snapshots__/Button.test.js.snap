@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders correctly 1`] = `
+<div>
+  <button
+    class="font-medium px-2.5 py-1.5 text-xs leading-4 rounded   inline-flex items-center  gap-2    focus:outline-none focus:ring-2 focus:ring-offset-2    border border-transparent text-white bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 shadow-sm"
+  >
+    Button text
+  </button>
+</div>
+`;
